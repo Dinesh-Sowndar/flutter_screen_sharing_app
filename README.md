@@ -29,8 +29,7 @@ Found a bug or have a feature request? Feel free to open an issue or submit a pu
 If you find this project useful:
 
 - 🌟 **Star** this repo
-- 👤 **Follow** [LiveKit on GitHub](https://github.com/livekit)
-- 🔔 Stay updated with the latest from [LiveKit Docs](https://docs.livekit.io)
+- 👤 **Follow Me** (https://github.com/Dinesh-Sowndar)
 
 ---
 
