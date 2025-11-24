@@ -1,5 +1,14 @@
 # Flutter Screen Sharing App
+
+## 🚀 Screenshot
 ![Flutter](https://github.com/user-attachments/assets/5c505f11-3bc5-4027-a5a3-88f5b26963b1)
+
+## 🚀 Video Demo
+
+
+https://github.com/user-attachments/assets/f60b3675-1db3-4363-81e3-05361b768329
+
+
 
 A Flutter application for screen sharing powered by [LiveKit](https://livekit.io).
 
