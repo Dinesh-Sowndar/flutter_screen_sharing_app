@@ -1,4 +1,4 @@
-# screen_sharing_app
+# Flutter Screen Sharing App
 
 A Flutter application for screen sharing powered by [LiveKit](https://livekit.io).
 
@@ -13,9 +13,6 @@ This project uses the following packages:
 
 - [LiveKit Flutter Quickstart Guide](https://docs.livekit.io/home/quickstarts/flutter/)
 - [Web Demo](https://livekit.github.io/client-sdk-flutter/)
-- [Flutter Docs](https://docs.flutter.dev/)
-  - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-  - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 ### 💡 Features
 
