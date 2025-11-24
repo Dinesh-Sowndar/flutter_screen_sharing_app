@@ -1,8 +1,3 @@
-Here’s an updated version of your `README.md` file for the **screen_sharing_app** Flutter project, including the LiveKit package versions, helpful links, and calls to star/follow:
-
----
-
-```md
 # screen_sharing_app
 
 A Flutter application for screen sharing powered by [LiveKit](https://livekit.io).
@@ -43,7 +38,3 @@ If you find this project useful:
 ---
 
 Built with ❤️ using Flutter + LiveKit.
-```
-
-Let me know if you'd like to include usage instructions, screenshots, or integration steps for your screen sharing feature!
-
